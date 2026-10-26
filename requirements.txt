@@ -1,0 +1,5 @@
+# GUI automation for loading unpacked browser extensions
+pyautogui>=0.9.54
+
+# Clipboard access used to paste extension paths and read page text
+pyperclip>=1.9.0
